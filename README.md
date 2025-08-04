@@ -52,9 +52,11 @@ CREATE TABLE IF NOT EXISTS tasks (
 
 ### Task List View
 
-![Task List Screenshot](screenshots/screenshot1.png)### Add Task View
+<img width="1364" height="609" alt="image" src="https://github.com/user-attachments/assets/1c3e09d2-95f3-44af-8c99-ad34253b838f" />
 
-![Add Task Screenshot](screenshots/screenshot2.png)## Technologies Used
+<img width="1364" height="609" alt="image" src="https://github.com/user-attachments/assets/48f29e20-56bd-4038-86ab-e424b8777e81" />
+
+## Technologies Used
 
 - PHP
 - MySQL
